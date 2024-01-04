@@ -13,7 +13,7 @@ export default function Home() {
         <p className="text-2xl font-medium text-zinc-500">
           Text opacity animation on scroll made with Framer Motion.
         </p>
-        <Link href="/demo" target="_blank">
+        <Link href="https://github.com/ArielAlzogarayFlores/text-opacity-animation" target="_blank">
           {" "}
           <button className="bg-zinc-200 text-zinc-900 rounded-md px-3 py-2 font-semibold mt-2">
             Github Repository ↗
